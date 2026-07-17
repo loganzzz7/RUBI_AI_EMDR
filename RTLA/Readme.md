@@ -17,34 +17,22 @@ The project is structured hierarchically by layer/phase. Each phase directory co
 
 ```text
 rubi-rtla/
-├── README.md                          # Overall project summary and architecture
-├── layer_one_safety_architecture/
+├── README.md                       # Overall project summary and architecture
+├── layer_1_safety_arch
 │   ├── phase_one_brief.md
-│   ├── p1_m1_library.csv
-│   ├── p1_m2_library.csv
-│   ├── p1_m3_library.csv
-│   ├── p1_m4_library.csv
-│   ├── p1_m5_library.csv
-│   ├── p1_m6_library.csv
-│   ├── p1_m7_library.csv
-│   ├── p1_m8_library.csv
-│   ├── p1_m9_library.csv
-│   └── p1_m10_library.csv
-├── layer_two_therapeutic_alliance/
-│   ├── phase_two_brief.md                 
-│   └── phrase_two_library.csv             
-├── layer_three_stabilization/
-│   ├── phase_three_brief.md
-│   └── phrase_three_library.csv
-├── layer_four_trauma_processing/
-│   ├── phase_four_brief.md                 
-│   └── phrase_four_library.csv 
-├── layer_five_session_closure/
-│   ├── phase_five_brief.md
-│   └── phrase_five_library.csv           
-└── layer_six_human_escalation/
-    ├── phase_six_brief.md
-    └── phrase_six_library.csv
+│   └── phrase_library
+│       ├── p1_m10_library.csv
+│       ├── p1_m1_library.csv
+│       ├── p1_m2_library.csv
+│       ├── p1_m3_library.csv
+│       ├── p1_m4_library.csv
+│       ├── p1_m5_library.csv
+│       ├── p1_m6_library.csv
+│       ├── p1_m7_library.csv
+│       ├── p1_m8_library.csv
+│       └── p1_m9_library.csv
+└── layer_2
+...
 ```
 
 ---
