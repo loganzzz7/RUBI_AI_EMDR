@@ -43,7 +43,7 @@
              │                                 │
              ▼                                 ▼
       Amazon S3                          Amazon CloudWatch
-  (Release Bundles,                    (Monitoring, Logs,
-   CSV Exports, PDFs,                  Metrics, Alerts,
-   Evaluation Data)                    Performance)
+  (Release approved                  (Monitoring, Logs,
+   JSON)                              Metrics, Alerts,
+                                      Performance)
 ```
